@@ -8,6 +8,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Gaming 🎮 and Memes 😁
 
+<a href="https://www.buymeacoffee.com/lagaryan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <!--
 **LAG-4/LAG-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
