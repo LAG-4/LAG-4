@@ -11,8 +11,6 @@
 
 
 
-<a href="https://www.buymeacoffee.com/lagaryan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
 <!--
 **LAG-4/LAG-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -71,4 +69,7 @@ I am a versatilist and easily adapt to different hats (Front-End Web Developer �
 &nbsp;
 <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="figma" height='42px'/> </a>
 
+<br>
+
+<a href="https://www.buymeacoffee.com/lagaryan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <br>
