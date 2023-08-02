@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, I'm Aryan Gupta!
+## Hey 👋, I'm Aryan "LAG" Gupta!
 <a href='https://www.linkedin.com/in/aryan-gupta-b794309a/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://twitter.com/lag_aryan'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.instagram.com/lag_aryan/'><img alt="kaggle" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" height='18px'/></a>
