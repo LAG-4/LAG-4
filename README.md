@@ -44,9 +44,8 @@ I am a versatilist and easily adapt to different hats (Front-End Web Developer �
 - 🌱 &nbsp; I’m currently learning Machine Learning; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/LAG-4?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [Instagram](https://www.instagram.com/lag_aryan/)
 - 📝 &nbsp; Checkout my resume
-- 📚 &nbsp; When I am free, I play Valorant or edit videos on After Effects. Checkout my [Youtube](https://www.youtube.com/channel/UCyuWWGC3ncqRm62nu9KvtWg) to see some of my edits (PS. Im not very good with them yet 😅)
+
 
 <br>
 
