@@ -40,7 +40,7 @@ I am a versatilist and easily adapt to different hats (Front-End Web Developer �
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Persist Vantures**
+- 🔭 &nbsp; I’m currently working on **Persist Ventures**
 - 🌱 &nbsp; I’m currently learning Machine Learning; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/LAG-4?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
