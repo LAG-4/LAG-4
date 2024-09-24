@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: **In depth about flutter and javascript**
 - 💬 Ask me about: **💡 Flutter, Python, Java, JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 - ⚡ Fun fact: **🎢 I am a gamer**
-- 📂 Portfolio: **<a href="lagaryan.netlify.app" target="_blank">lagaryan.netlify.app</a>**
+- 📂 Portfolio: **<a href="[lagaryan.netlify.app](https://lagaryan.netlify.app)" target="_blank">lagaryan.netlify.app</a>**
 
  **<h3 align="left">Skills</h3>**
 
